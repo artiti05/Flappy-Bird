@@ -5,8 +5,6 @@ A simple Flappy Bird game clone built using Python and the Pygame library.
 ## Overview
 In this game, the player controls a bird that automatically moves forward and falls due to gravity. The objective is to guide the bird through gaps in vertically aligned pipes without colliding. Points are scored by successfully passing through the pipes, and the game ends if the bird hits a pipe or the ground.
 
-![Flappy Bird Screenshot](path/to/screenshot.png)
-
 ## Features
 - Realistic physics for bird movement (gravity and flapping mechanics).
 - Randomly generated pipes with varying gaps.
